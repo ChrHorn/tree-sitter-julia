@@ -39,7 +39,7 @@ const OPERATORS = {
 
   arrow: `
     <-- --> <-->
-    ← → ↔
+    ← →
   `,
 
   comparison: `
